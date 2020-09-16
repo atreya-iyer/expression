@@ -3,5 +3,5 @@
 ## Run with:
 ``` shell
 javac ExpressionEvaluator.java
-``` javac ExpressionEvaluator.java
-```
+java ExpressionEvaluator
+``` 
